@@ -8,7 +8,7 @@ Siamese Network
 Binary/Categorical Cross Entropy, Precision, and Recall (as thresholds)
 
 ## Links
-Research Paper : https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf
+Research Paper : https://www.cs.cmu.edu/~rsalakhu/papers/oneshot1.pdf  
 Labelled Faces in the Wild : http://vis-www.cs.umass.edu/lfw/
 
 ## Youtube Playlist
